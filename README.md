@@ -4,11 +4,11 @@ This is a bash shell script that can be used to see if your password was leaked 
 
 Read more about the leak here: http://www.zdnet.com/blog/btl/6-46-million-linkedin-passwords-leaked-online/79290
 
-== Usage
+==Usage
 In your terminal run
 `./linkedout.sh`
 or
 `bash ./linkedout.sh`
 
-== Warranty
+==Warranty
 This software comes 'as-is' and there is no warranty expressed or implied.  I do not guarantee the factuality of the information contained in this application and by using this software you release me from any liability relating to the use of this software.  I am in no way associated with Linked In.
